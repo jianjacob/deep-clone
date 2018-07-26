@@ -1,0 +1,22 @@
+{
+  "name": "deep-clone",
+  "version": "1.0.0",
+  "description": "deep clone implemented in vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianjacob/deep-clone.git"
+  },
+  "author": "jianjacob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jianjacob/deep-clone/issues"
+  },
+  "homepage": "https://github.com/jianjacob/deep-clone#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
